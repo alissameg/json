@@ -1,0 +1,3288 @@
+{
+    "Elections": [
+        {
+            "name": "43e élection fédérale",
+            "date": "21 octobre 2019",
+            "type": "Federal",
+            "candidats": [
+                {
+                    "prenom": "Lucien",
+                    "nom": "Bouchard",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Gauthier",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Gilles",
+                    "nom": "Duceppe",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Vivian",
+                    "nom": "Barbot",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Paillé",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Bellavance",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Fortin",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Mario",
+                    "nom": "Beaulieu",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Legault",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Marie-Claude",
+                    "nom": "Brière",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvie",
+                    "nom": "Langlois Brouillette",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Virginie",
+                    "nom": "Bouchard",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Eve",
+                    "nom": "Bellavance",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvie",
+                    "nom": "Tougas",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Charles",
+                    "nom": "Etienne",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Lizabel",
+                    "nom": "Nitoi",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Lise",
+                    "nom": "Hébert",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvain",
+                    "nom": "Fournier",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Evelyne",
+                    "nom": "Marcil",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Christine",
+                    "nom": "Lebel",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Henri",
+                    "nom": "Gustave",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Honoré",
+                    "nom": "Mercier",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Félix",
+                    "nom": "Gabriel",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Simon",
+                    "nom": "Napoléon",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Lomer",
+                    "nom": "Gouin",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Louis-Alexandre",
+                    "nom": "Taschereau",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Adélard",
+                    "nom": "Godbout",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Georges",
+                    "nom": "Émile",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Lesage",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Bourassa",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Claude",
+                    "nom": "Ryan",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Bourassa",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Johnson",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Charest",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean-Marc",
+                    "nom": "Fournier",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Philippe",
+                    "nom": "Couillard",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Arcand",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "René",
+                    "nom": "Lévesque",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Marc Johnson",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jacques",
+                    "nom": "Parizeau",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Lucien",
+                    "nom": "Bouchard",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Bernard",
+                    "nom": "Landry",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Boisclair",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pauline",
+                    "nom": "Marois",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Karl Péladeau",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Lisée",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Monique",
+                    "nom": "Richard",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jonathan",
+                    "nom": "Valois",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Raymond",
+                    "nom": "Archambault",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Gabrielle",
+                    "nom": "Lemieux",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Dieudonné",
+                    "nom": "Ella",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Yves",
+                    "nom": "Blanchette",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Ouimet",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Marian",
+                    "nom": "Lé Grant",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Éric",
+                    "nom": "Ferland",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Saloua",
+                    "nom": "Laridhi",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Richard",
+                    "nom": "Savignac",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Scott",
+                    "nom": "McKay",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "Rainville",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Claude",
+                    "nom": "Sabourin",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Alex",
+                    "nom": "Tyrrell",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Catherine",
+                    "nom": "Cyr Wright",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Guillaume",
+                    "nom": "Dufour",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Alexis",
+                    "nom": "Dumont-Blanchet",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Boudreau",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Marie-Phare",
+                    "nom": "Boucher",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Carol-Ann",
+                    "nom": "Kack",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Goulimine Sylvie",
+                    "nom": "Cadôret",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Léonard",
+                    "nom": "Gagnon",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Pelletier",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Jimmy",
+                    "nom": "Voyer",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Michael",
+                    "nom": "Grecoff",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Éric",
+                    "nom": "Barnabé",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Carl",
+                    "nom": "Lamontagne",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Éri",
+                    "nom": "Lacroix",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Jocelyn",
+                    "nom": "Chouinard",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Sherwin",
+                    "nom": "Edwards",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Lisette",
+                    "nom": "Gaudreault",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Isabelle",
+                    "nom": "Villeneuve",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Milan",
+                    "nom": "Jovanovic",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Yannick",
+                    "nom": "Campeau",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Dominique",
+                    "nom": "Messner",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Kathy",
+                    "nom": "Laframboise",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Lecompte",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Boissonneault",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "L_heureux",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Pierre-Benoît",
+                    "nom": "Fortin",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Rowen",
+                    "nom": "Tanguay",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Valérie",
+                    "nom": "Tremblay",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Adrien",
+                    "nom": "Pouliot",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Léonard",
+                    "nom": "Gagnon",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Jennifer",
+                    "nom": "Doucet",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Chloé",
+                    "nom": "Bernard",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Yves",
+                    "nom": "Françoisyon",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Josée",
+                    "nom": "Duplessis",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Carrier",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Daviau",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Matthew",
+                    "nom": "Dubé",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Jacques",
+                    "nom": "Turcotte",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Marie-Chantal",
+                    "nom": "Hamel",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "D_Astous",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Véronique",
+                    "nom": "Laprise",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Javin",
+                    "nom": "Ames-Sinclair",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Jordan",
+                    "nom": "Ames-Sinclair",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Will",
+                    "nom": "Amos",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Jag",
+                    "nom": "Anand",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Gary",
+                    "nom": "Anandasangaree",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Pam",
+                    "nom": "Armstrong",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Ramez",
+                    "nom": "Ayoub",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "René",
+                    "nom": "Arseneault",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Vance",
+                    "nom": "Badawey",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Alexander",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Deepak",
+                    "nom": "Obhrai",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Kevin",
+                    "nom": "O_Leary",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Rick",
+                    "nom": "Peterson",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Andrew",
+                    "nom": "Saxton",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Lisa",
+                    "nom": "Raitt",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Brad",
+                    "nom": "Trost",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Lemieux",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Michael",
+                    "nom": "Chong",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Andrew",
+                    "nom": "Scheer",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Jean-Robert",
+                    "nom": "Ouellet",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Cliche",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Roland",
+                    "nom": "Morin",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Raymond",
+                    "nom": "G. Laliberté",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Henri-François",
+                    "nom": "Gautrin",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-Denys",
+                    "nom": "Lavigne",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-Paul",
+                    "nom": "Harney",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Gaétan",
+                    "nom": "Nadeau",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Parenteau",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Sirois",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jocelyne",
+                    "nom": "Dupuis",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Paul",
+                    "nom": "Rose",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Trevor",
+                    "nom": "Hancock",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Seymour",
+                    "nom": "Trieger",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Kathryn",
+                    "nom": "Cholette",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Lea",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Wendy",
+                    "nom": "Priesnitz",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Harry",
+                    "nom": "Garfinkle",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Joan",
+                    "nom": "Russow",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Bradshaw",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Jim",
+                    "nom": "Harris",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Elizabeth",
+                    "nom": "May",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Jo-Ann",
+                    "nom": "Roberts",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Nick",
+                    "nom": "Keramarios",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Philippe",
+                    "nom": "Gaboury",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jeff",
+                    "nom": "Benoît",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Marc",
+                    "nom": "Roussin",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Yaniv",
+                    "nom": "Loran",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Delia",
+                    "nom": "Fodor",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Picard",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Pelletier",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Duplessis - Alexandre",
+                    "nom": "Leblanc",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Juliett",
+                    "nom": "Zuniga Lopez",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Mario",
+                    "nom": "Belec",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Bélanger",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Vincent",
+                    "nom": "Aubé",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jean-Philippe",
+                    "nom": "Chaussé",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jérémie",
+                    "nom": "Ouellette",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Serge",
+                    "nom": "Benoit",
+                    "parti": "P.P.C"
+                }
+            ]
+        },
+        {
+            "name": "Élections générales provinciales",
+            "date": "1er octobre 2018",
+            "type": "Provincial",
+            "candidats": [
+                {
+                    "prenom": "Lucien",
+                    "nom": "Bouchard",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Gauthier",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Gilles",
+                    "nom": "Duceppe",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Vivian",
+                    "nom": "Barbot",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Paillé",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Bellavance",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Fortin",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Mario",
+                    "nom": "Beaulieu",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Legault",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Marie-Claude",
+                    "nom": "Brière",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvie",
+                    "nom": "Langlois Brouillette",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Virginie",
+                    "nom": "Bouchard",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Eve",
+                    "nom": "Bellavance",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvie",
+                    "nom": "Tougas",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Charles",
+                    "nom": "Etienne",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Lizabel",
+                    "nom": "Nitoi",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Lise",
+                    "nom": "Hébert",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvain",
+                    "nom": "Fournier",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Evelyne",
+                    "nom": "Marcil",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Christine",
+                    "nom": "Lebel",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Henri",
+                    "nom": "Gustave",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Honoré",
+                    "nom": "Mercier",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Félix",
+                    "nom": "Gabriel",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Simon",
+                    "nom": "Napoléon",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Lomer",
+                    "nom": "Gouin",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Louis-Alexandre",
+                    "nom": "Taschereau",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Adélard",
+                    "nom": "Godbout",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Georges",
+                    "nom": "Émile",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Lesage",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Bourassa",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Claude",
+                    "nom": "Ryan",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Bourassa",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Johnson",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Charest",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean-Marc",
+                    "nom": "Fournier",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Philippe",
+                    "nom": "Couillard",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Arcand",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "René",
+                    "nom": "Lévesque",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Marc Johnson",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jacques",
+                    "nom": "Parizeau",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Lucien",
+                    "nom": "Bouchard",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Bernard",
+                    "nom": "Landry",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Boisclair",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pauline",
+                    "nom": "Marois",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Karl Péladeau",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Lisée",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Monique",
+                    "nom": "Richard",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jonathan",
+                    "nom": "Valois",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Raymond",
+                    "nom": "Archambault",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Gabrielle",
+                    "nom": "Lemieux",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Dieudonné",
+                    "nom": "Ella",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Yves",
+                    "nom": "Blanchette",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Ouimet",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Marian",
+                    "nom": "Lé Grant",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Éric",
+                    "nom": "Ferland",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Saloua",
+                    "nom": "Laridhi",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Richard",
+                    "nom": "Savignac",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Scott",
+                    "nom": "McKay",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "Rainville",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Claude",
+                    "nom": "Sabourin",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Alex",
+                    "nom": "Tyrrell",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Catherine",
+                    "nom": "Cyr Wright",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Guillaume",
+                    "nom": "Dufour",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Alexis",
+                    "nom": "Dumont-Blanchet",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Boudreau",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Marie-Phare",
+                    "nom": "Boucher",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Carol-Ann",
+                    "nom": "Kack",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Goulimine Sylvie",
+                    "nom": "Cadôret",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Léonard",
+                    "nom": "Gagnon",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Pelletier",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Jimmy",
+                    "nom": "Voyer",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Michael",
+                    "nom": "Grecoff",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Éric",
+                    "nom": "Barnabé",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Carl",
+                    "nom": "Lamontagne",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Éri",
+                    "nom": "Lacroix",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Jocelyn",
+                    "nom": "Chouinard",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Sherwin",
+                    "nom": "Edwards",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Lisette",
+                    "nom": "Gaudreault",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Isabelle",
+                    "nom": "Villeneuve",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Milan",
+                    "nom": "Jovanovic",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Yannick",
+                    "nom": "Campeau",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Dominique",
+                    "nom": "Messner",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Kathy",
+                    "nom": "Laframboise",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Lecompte",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Boissonneault",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "L_heureux",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Pierre-Benoît",
+                    "nom": "Fortin",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Rowen",
+                    "nom": "Tanguay",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Valérie",
+                    "nom": "Tremblay",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Adrien",
+                    "nom": "Pouliot",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Léonard",
+                    "nom": "Gagnon",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Jennifer",
+                    "nom": "Doucet",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Chloé",
+                    "nom": "Bernard",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Yves",
+                    "nom": "Françoisyon",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Josée",
+                    "nom": "Duplessis",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Carrier",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Daviau",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Matthew",
+                    "nom": "Dubé",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Jacques",
+                    "nom": "Turcotte",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Marie-Chantal",
+                    "nom": "Hamel",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "D_Astous",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Véronique",
+                    "nom": "Laprise",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Javin",
+                    "nom": "Ames-Sinclair",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Jordan",
+                    "nom": "Ames-Sinclair",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Will",
+                    "nom": "Amos",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Jag",
+                    "nom": "Anand",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Gary",
+                    "nom": "Anandasangaree",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Pam",
+                    "nom": "Armstrong",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Ramez",
+                    "nom": "Ayoub",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "René",
+                    "nom": "Arseneault",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Vance",
+                    "nom": "Badawey",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Alexander",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Deepak",
+                    "nom": "Obhrai",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Kevin",
+                    "nom": "O_Leary",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Rick",
+                    "nom": "Peterson",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Andrew",
+                    "nom": "Saxton",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Lisa",
+                    "nom": "Raitt",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Brad",
+                    "nom": "Trost",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Lemieux",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Michael",
+                    "nom": "Chong",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Andrew",
+                    "nom": "Scheer",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Jean-Robert",
+                    "nom": "Ouellet",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Cliche",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Roland",
+                    "nom": "Morin",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Raymond",
+                    "nom": "G. Laliberté",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Henri-François",
+                    "nom": "Gautrin",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-Denys",
+                    "nom": "Lavigne",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-Paul",
+                    "nom": "Harney",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Gaétan",
+                    "nom": "Nadeau",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Parenteau",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Sirois",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jocelyne",
+                    "nom": "Dupuis",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Paul",
+                    "nom": "Rose",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Trevor",
+                    "nom": "Hancock",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Seymour",
+                    "nom": "Trieger",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Kathryn",
+                    "nom": "Cholette",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Lea",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Wendy",
+                    "nom": "Priesnitz",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Harry",
+                    "nom": "Garfinkle",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Joan",
+                    "nom": "Russow",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Bradshaw",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Jim",
+                    "nom": "Harris",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Elizabeth",
+                    "nom": "May",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Jo-Ann",
+                    "nom": "Roberts",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Nick",
+                    "nom": "Keramarios",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Philippe",
+                    "nom": "Gaboury",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jeff",
+                    "nom": "Benoît",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Marc",
+                    "nom": "Roussin",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Yaniv",
+                    "nom": "Loran",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Delia",
+                    "nom": "Fodor",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Picard",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Pelletier",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Duplessis - Alexandre",
+                    "nom": "Leblanc",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Juliett",
+                    "nom": "Zuniga Lopez",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Mario",
+                    "nom": "Belec",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Bélanger",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Vincent",
+                    "nom": "Aubé",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jean-Philippe",
+                    "nom": "Chaussé",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jérémie",
+                    "nom": "Ouellette",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Serge",
+                    "nom": "Benoit",
+                    "parti": "P.P.C"
+                }
+            ]
+        },
+        {
+            "name": "42e élection fédérale",
+            "date": "19 octobre 2015",
+            "type": "Federal",
+            "candidats": [
+                {
+                    "prenom": "Lucien",
+                    "nom": "Bouchard",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Gauthier",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Gilles",
+                    "nom": "Duceppe",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Vivian",
+                    "nom": "Barbot",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Paillé",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Bellavance",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Fortin",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Mario",
+                    "nom": "Beaulieu",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Legault",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Marie-Claude",
+                    "nom": "Brière",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvie",
+                    "nom": "Langlois Brouillette",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Virginie",
+                    "nom": "Bouchard",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Eve",
+                    "nom": "Bellavance",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvie",
+                    "nom": "Tougas",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Charles",
+                    "nom": "Etienne",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Lizabel",
+                    "nom": "Nitoi",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Lise",
+                    "nom": "Hébert",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvain",
+                    "nom": "Fournier",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Evelyne",
+                    "nom": "Marcil",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Christine",
+                    "nom": "Lebel",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Henri",
+                    "nom": "Gustave",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Honoré",
+                    "nom": "Mercier",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Félix",
+                    "nom": "Gabriel",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Simon",
+                    "nom": "Napoléon",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Lomer",
+                    "nom": "Gouin",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Louis-Alexandre",
+                    "nom": "Taschereau",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Adélard",
+                    "nom": "Godbout",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Georges",
+                    "nom": "Émile",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Lesage",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Bourassa",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Claude",
+                    "nom": "Ryan",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Bourassa",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Johnson",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Charest",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean-Marc",
+                    "nom": "Fournier",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Philippe",
+                    "nom": "Couillard",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Arcand",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "René",
+                    "nom": "Lévesque",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Marc Johnson",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jacques",
+                    "nom": "Parizeau",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Lucien",
+                    "nom": "Bouchard",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Bernard",
+                    "nom": "Landry",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Boisclair",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pauline",
+                    "nom": "Marois",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Karl Péladeau",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Lisée",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Monique",
+                    "nom": "Richard",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jonathan",
+                    "nom": "Valois",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Raymond",
+                    "nom": "Archambault",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Gabrielle",
+                    "nom": "Lemieux",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Dieudonné",
+                    "nom": "Ella",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Yves",
+                    "nom": "Blanchette",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Ouimet",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Marian",
+                    "nom": "Lé Grant",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Éric",
+                    "nom": "Ferland",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Saloua",
+                    "nom": "Laridhi",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Richard",
+                    "nom": "Savignac",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Scott",
+                    "nom": "McKay",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "Rainville",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Claude",
+                    "nom": "Sabourin",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Alex",
+                    "nom": "Tyrrell",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Catherine",
+                    "nom": "Cyr Wright",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Guillaume",
+                    "nom": "Dufour",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Alexis",
+                    "nom": "Dumont-Blanchet",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Boudreau",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Marie-Phare",
+                    "nom": "Boucher",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Carol-Ann",
+                    "nom": "Kack",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Goulimine Sylvie",
+                    "nom": "Cadôret",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Léonard",
+                    "nom": "Gagnon",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Pelletier",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Jimmy",
+                    "nom": "Voyer",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Michael",
+                    "nom": "Grecoff",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Éric",
+                    "nom": "Barnabé",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Carl",
+                    "nom": "Lamontagne",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Éri",
+                    "nom": "Lacroix",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Jocelyn",
+                    "nom": "Chouinard",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Sherwin",
+                    "nom": "Edwards",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Lisette",
+                    "nom": "Gaudreault",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Isabelle",
+                    "nom": "Villeneuve",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Milan",
+                    "nom": "Jovanovic",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Yannick",
+                    "nom": "Campeau",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Dominique",
+                    "nom": "Messner",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Kathy",
+                    "nom": "Laframboise",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Lecompte",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Boissonneault",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "L_heureux",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Pierre-Benoît",
+                    "nom": "Fortin",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Rowen",
+                    "nom": "Tanguay",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Valérie",
+                    "nom": "Tremblay",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Adrien",
+                    "nom": "Pouliot",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Léonard",
+                    "nom": "Gagnon",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Jennifer",
+                    "nom": "Doucet",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Chloé",
+                    "nom": "Bernard",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Yves",
+                    "nom": "Françoisyon",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Josée",
+                    "nom": "Duplessis",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Carrier",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Daviau",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Matthew",
+                    "nom": "Dubé",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Jacques",
+                    "nom": "Turcotte",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Marie-Chantal",
+                    "nom": "Hamel",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "D_Astous",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Véronique",
+                    "nom": "Laprise",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Javin",
+                    "nom": "Ames-Sinclair",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Jordan",
+                    "nom": "Ames-Sinclair",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Will",
+                    "nom": "Amos",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Jag",
+                    "nom": "Anand",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Gary",
+                    "nom": "Anandasangaree",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Pam",
+                    "nom": "Armstrong",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Ramez",
+                    "nom": "Ayoub",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "René",
+                    "nom": "Arseneault",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Vance",
+                    "nom": "Badawey",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Alexander",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Deepak",
+                    "nom": "Obhrai",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Kevin",
+                    "nom": "O_Leary",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Rick",
+                    "nom": "Peterson",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Andrew",
+                    "nom": "Saxton",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Lisa",
+                    "nom": "Raitt",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Brad",
+                    "nom": "Trost",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Lemieux",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Michael",
+                    "nom": "Chong",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Andrew",
+                    "nom": "Scheer",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Jean-Robert",
+                    "nom": "Ouellet",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Cliche",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Roland",
+                    "nom": "Morin",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Raymond",
+                    "nom": "G. Laliberté",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Henri-François",
+                    "nom": "Gautrin",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-Denys",
+                    "nom": "Lavigne",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-Paul",
+                    "nom": "Harney",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Gaétan",
+                    "nom": "Nadeau",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Parenteau",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Sirois",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jocelyne",
+                    "nom": "Dupuis",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Paul",
+                    "nom": "Rose",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Trevor",
+                    "nom": "Hancock",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Seymour",
+                    "nom": "Trieger",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Kathryn",
+                    "nom": "Cholette",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Lea",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Wendy",
+                    "nom": "Priesnitz",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Harry",
+                    "nom": "Garfinkle",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Joan",
+                    "nom": "Russow",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Bradshaw",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Jim",
+                    "nom": "Harris",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Elizabeth",
+                    "nom": "May",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Jo-Ann",
+                    "nom": "Roberts",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Nick",
+                    "nom": "Keramarios",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Philippe",
+                    "nom": "Gaboury",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jeff",
+                    "nom": "Benoît",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Marc",
+                    "nom": "Roussin",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Yaniv",
+                    "nom": "Loran",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Delia",
+                    "nom": "Fodor",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Picard",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Pelletier",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Duplessis - Alexandre",
+                    "nom": "Leblanc",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Juliett",
+                    "nom": "Zuniga Lopez",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Mario",
+                    "nom": "Belec",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Bélanger",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Vincent",
+                    "nom": "Aubé",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jean-Philippe",
+                    "nom": "Chaussé",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jérémie",
+                    "nom": "Ouellette",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Serge",
+                    "nom": "Benoit",
+                    "parti": "P.P.C"
+                }
+            ]
+        },
+        {
+            "name": "Élections générales provinciales",
+            "date": "7 avril 2014",
+            "type": "Provincial",
+            "candidats": [
+                {
+                    "prenom": "Lucien",
+                    "nom": "Bouchard",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Gauthier",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Gilles",
+                    "nom": "Duceppe",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Vivian",
+                    "nom": "Barbot",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Paillé",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Bellavance",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Fortin",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "Mario",
+                    "nom": "Beaulieu",
+                    "parti": "B.Q"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Legault",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Marie-Claude",
+                    "nom": "Brière",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvie",
+                    "nom": "Langlois Brouillette",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Virginie",
+                    "nom": "Bouchard",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Eve",
+                    "nom": "Bellavance",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvie",
+                    "nom": "Tougas",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Charles",
+                    "nom": "Etienne",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Lizabel",
+                    "nom": "Nitoi",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Lise",
+                    "nom": "Hébert",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Sylvain",
+                    "nom": "Fournier",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Evelyne",
+                    "nom": "Marcil",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Christine",
+                    "nom": "Lebel",
+                    "parti": "C.A.Q"
+                },
+                {
+                    "prenom": "Henri",
+                    "nom": "Gustave",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Honoré",
+                    "nom": "Mercier",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Félix",
+                    "nom": "Gabriel",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Simon",
+                    "nom": "Napoléon",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Lomer",
+                    "nom": "Gouin",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Louis-Alexandre",
+                    "nom": "Taschereau",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Adélard",
+                    "nom": "Godbout",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Georges",
+                    "nom": "Émile",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Lesage",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Bourassa",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Claude",
+                    "nom": "Ryan",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Bourassa",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Johnson",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Charest",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Jean-Marc",
+                    "nom": "Fournier",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Philippe",
+                    "nom": "Couillard",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Arcand",
+                    "parti": "P.L.Q"
+                },
+                {
+                    "prenom": "René",
+                    "nom": "Lévesque",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Marc Johnson",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jacques",
+                    "nom": "Parizeau",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Lucien",
+                    "nom": "Bouchard",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Bernard",
+                    "nom": "Landry",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Boisclair",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pauline",
+                    "nom": "Marois",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Karl Péladeau",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Lisée",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Monique",
+                    "nom": "Richard",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Jonathan",
+                    "nom": "Valois",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Raymond",
+                    "nom": "Archambault",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Gabrielle",
+                    "nom": "Lemieux",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Dieudonné",
+                    "nom": "Ella",
+                    "parti": "P.Q"
+                },
+                {
+                    "prenom": "Yves",
+                    "nom": "Blanchette",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Jean",
+                    "nom": "Ouimet",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Marian",
+                    "nom": "Lé Grant",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Éric",
+                    "nom": "Ferland",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Saloua",
+                    "nom": "Laridhi",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Richard",
+                    "nom": "Savignac",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Scott",
+                    "nom": "McKay",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "Rainville",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Claude",
+                    "nom": "Sabourin",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Alex",
+                    "nom": "Tyrrell",
+                    "parti": "P.V.Q"
+                },
+                {
+                    "prenom": "Catherine",
+                    "nom": "Cyr Wright",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Guillaume",
+                    "nom": "Dufour",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Alexis",
+                    "nom": "Dumont-Blanchet",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Boudreau",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Marie-Phare",
+                    "nom": "Boucher",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Carol-Ann",
+                    "nom": "Kack",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Goulimine Sylvie",
+                    "nom": "Cadôret",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Léonard",
+                    "nom": "Gagnon",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Pelletier",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Jimmy",
+                    "nom": "Voyer",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Michael",
+                    "nom": "Grecoff",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Éric",
+                    "nom": "Barnabé",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Carl",
+                    "nom": "Lamontagne",
+                    "parti": "Q.S"
+                },
+                {
+                    "prenom": "Éri",
+                    "nom": "Lacroix",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Jocelyn",
+                    "nom": "Chouinard",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Sherwin",
+                    "nom": "Edwards",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Lisette",
+                    "nom": "Gaudreault",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Isabelle",
+                    "nom": "Villeneuve",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Milan",
+                    "nom": "Jovanovic",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Yannick",
+                    "nom": "Campeau",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Dominique",
+                    "nom": "Messner",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Kathy",
+                    "nom": "Laframboise",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "André",
+                    "nom": "Lecompte",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Boissonneault",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "L_heureux",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Pierre-Benoît",
+                    "nom": "Fortin",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Rowen",
+                    "nom": "Tanguay",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Valérie",
+                    "nom": "Tremblay",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Adrien",
+                    "nom": "Pouliot",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Léonard",
+                    "nom": "Gagnon",
+                    "parti": "P.C.Q"
+                },
+                {
+                    "prenom": "Jennifer",
+                    "nom": "Doucet",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Chloé",
+                    "nom": "Bernard",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Yves",
+                    "nom": "Françoisyon",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Josée",
+                    "nom": "Duplessis",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Carrier",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Daniel",
+                    "nom": "Daviau",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Matthew",
+                    "nom": "Dubé",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Jacques",
+                    "nom": "Turcotte",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Marie-Chantal",
+                    "nom": "Hamel",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Guy",
+                    "nom": "D_Astous",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Véronique",
+                    "nom": "Laprise",
+                    "parti": "P.I.Q"
+                },
+                {
+                    "prenom": "Javin",
+                    "nom": "Ames-Sinclair",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Jordan",
+                    "nom": "Ames-Sinclair",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Will",
+                    "nom": "Amos",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Jag",
+                    "nom": "Anand",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Gary",
+                    "nom": "Anandasangaree",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Pam",
+                    "nom": "Armstrong",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Ramez",
+                    "nom": "Ayoub",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "René",
+                    "nom": "Arseneault",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Vance",
+                    "nom": "Badawey",
+                    "parti": "P.L.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Alexander",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Deepak",
+                    "nom": "Obhrai",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Kevin",
+                    "nom": "O_Leary",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Rick",
+                    "nom": "Peterson",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Andrew",
+                    "nom": "Saxton",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Lisa",
+                    "nom": "Raitt",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Brad",
+                    "nom": "Trost",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Lemieux",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Michael",
+                    "nom": "Chong",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Andrew",
+                    "nom": "Scheer",
+                    "parti": "P.C.C"
+                },
+                {
+                    "prenom": "Jean-Robert",
+                    "nom": "Ouellet",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Robert",
+                    "nom": "Cliche",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Roland",
+                    "nom": "Morin",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Raymond",
+                    "nom": "G. Laliberté",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Henri-François",
+                    "nom": "Gautrin",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-Denys",
+                    "nom": "Lavigne",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-Paul",
+                    "nom": "Harney",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Gaétan",
+                    "nom": "Nadeau",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Michel",
+                    "nom": "Parenteau",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jean-François",
+                    "nom": "Sirois",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Jocelyne",
+                    "nom": "Dupuis",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Paul",
+                    "nom": "Rose",
+                    "parti": "N.P.D"
+                },
+                {
+                    "prenom": "Trevor",
+                    "nom": "Hancock",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Seymour",
+                    "nom": "Trieger",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Kathryn",
+                    "nom": "Cholette",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Lea",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Wendy",
+                    "nom": "Priesnitz",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Harry",
+                    "nom": "Garfinkle",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Joan",
+                    "nom": "Russow",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Chris",
+                    "nom": "Bradshaw",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Jim",
+                    "nom": "Harris",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Elizabeth",
+                    "nom": "May",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Jo-Ann",
+                    "nom": "Roberts",
+                    "parti": "P.V.C"
+                },
+                {
+                    "prenom": "Nick",
+                    "nom": "Keramarios",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Philippe",
+                    "nom": "Gaboury",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jeff",
+                    "nom": "Benoît",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Marc",
+                    "nom": "Roussin",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Yaniv",
+                    "nom": "Loran",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Delia",
+                    "nom": "Fodor",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Picard",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "François",
+                    "nom": "Pelletier",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Duplessis - Alexandre",
+                    "nom": "Leblanc",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Juliett",
+                    "nom": "Zuniga Lopez",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Mario",
+                    "nom": "Belec",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Pierre",
+                    "nom": "Bélanger",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Vincent",
+                    "nom": "Aubé",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jean-Philippe",
+                    "nom": "Chaussé",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Jérémie",
+                    "nom": "Ouellette",
+                    "parti": "P.P.C"
+                },
+                {
+                    "prenom": "Serge",
+                    "nom": "Benoit",
+                    "parti": "P.P.C"
+                }
+            ]
+        }
+    ],
+    "PartisFederaux": [
+        {
+            "abreviation": "P.L.C",
+            "fullname": "Parti libéral du Canada"
+        },
+        {
+            "abreviation": "P.C.C",
+            "fullname": "Parti conservateur du Canada"
+        },
+        {
+            "abreviation": "B.Q",
+            "fullname": "Bloc Québécois"
+        },
+        {
+            "abreviation": "N.P.D",
+            "fullname": "Nouveau parti démocratique"
+        },
+        {
+            "abreviation": "P.V.C",
+            "fullname": "Parti vert du Canada"
+        },
+        {
+            "abreviation": "P.P.C",
+            "fullname": "Parti populaire du Canada"
+        }
+    ],
+    "PartisProvinciaux": [
+        {
+            "abreviation": "C.A.Q",
+            "fullname": "Coalition avenir Quebec"
+        },
+        {
+            "abreviation": "P.L.Q",
+            "fullname": "Parti liberal du Quebec"
+        },
+        {
+            "abreviation": "P.Q",
+            "fullname": "Parti quebecois"
+        },
+        {
+            "abreviation": "P.V.Q",
+            "fullname": "Parti vert du Quebec"
+        },
+        {
+            "abreviation": "Q.S",
+            "fullname": "Quebec solidaire"
+        },
+        {
+            "abreviation": "P.C.Q",
+            "fullname": "Parti conservateur du Quebec"
+        },
+        {
+            "abreviation": "P.I.Q",
+            "fullname": "Parti pour independance du Quebec"
+        }
+    ]
+}
